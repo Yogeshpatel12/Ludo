@@ -30,6 +30,10 @@ const Contact = () => {
             <div className="space-y-4 text-left text-sm mb-10">
               <p>Legal Name - Eirupskills infotech llp</p>
               <p>
+              Developer details - Name- Durgesh dangi 
+              Address - Debari zince melter udaipur Rajasthan -313024.
+              </p>
+              <p>
                 Address - Rk Dhawai Gudli Near Power House Girwa Bhesra Kalan Udaipur Rajasthan - 313024
               </p>
               <p>Mail - care@ludovijayta.com</p>
